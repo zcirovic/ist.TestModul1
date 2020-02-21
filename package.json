@@ -1,0 +1,23 @@
+{
+  "name": "ist.primer1",
+  "version": "1.0.0",
+  "description": "Primer1 za deljeni modul - IST",
+  "main": "sharedData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcirovic/ist.TestModul1.git"
+  },
+  "keywords": [
+    "shared",
+    "data"
+  ],
+  "author": "Zoran Cirovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcirovic/ist.TestModul1/issues"
+  },
+  "homepage": "https://github.com/zcirovic/ist.TestModul1#readme"
+}
